@@ -12,7 +12,7 @@
 		- Use ChatGpt and StackOverflow For Ask only !
 ---
 2. `Flutter` :	 
-	- (20 days) : <span style="color:red">7</span> October - <span style="color:red">27</span> October
+	- (30 days) : <span style="color:red">7</span> October - <span style="color:red">07</span> Novemeber
 		-  `Resources` 📚 :
 			- `From Docs` :
 				- https://docs.flutter.dev/
